@@ -5,9 +5,6 @@ export const generalFooter = [
         text_2: 456,
         text_3: 789,
         
-        p_1: 3333,
-        p_2: 4444,
-        p_3: 5555
     },
 
 ]

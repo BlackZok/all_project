@@ -10,12 +10,7 @@ let footerHtml = generalFooter.map((a) => {
     <div class="col-md-4">${a.text_1}</div>
     <div class="col-md-4">${a.text_2}</div>
     <div class="col-md-4">${a.text_3}</div>
-
-    <div class="col-md-4">${a.p_1}</div>
-    <div class="col-md-4">${a.p_2}</div>
-    <div class="col-md-4">${a.p_3}</div>
    
-    
     `
 }).join(" ");
 
